@@ -1,0 +1,11 @@
+/Users/sinabastani/Desktop/projects/Rider/BookStore/BookStore_Models/bin/Debug/net8.0/BookStore_Models.deps.json
+/Users/sinabastani/Desktop/projects/Rider/BookStore/BookStore_Models/bin/Debug/net8.0/BookStore_Models.dll
+/Users/sinabastani/Desktop/projects/Rider/BookStore/BookStore_Models/bin/Debug/net8.0/BookStore_Models.pdb
+/Users/sinabastani/Desktop/projects/Rider/BookStore/BookStore_Models/obj/Debug/net8.0/BookStore_Models.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sinabastani/Desktop/projects/Rider/BookStore/BookStore_Models/obj/Debug/net8.0/BookStore_Models.AssemblyInfoInputs.cache
+/Users/sinabastani/Desktop/projects/Rider/BookStore/BookStore_Models/obj/Debug/net8.0/BookStore_Models.AssemblyInfo.cs
+/Users/sinabastani/Desktop/projects/Rider/BookStore/BookStore_Models/obj/Debug/net8.0/BookStore_Models.csproj.CoreCompileInputs.cache
+/Users/sinabastani/Desktop/projects/Rider/BookStore/BookStore_Models/obj/Debug/net8.0/BookStore_Models.dll
+/Users/sinabastani/Desktop/projects/Rider/BookStore/BookStore_Models/obj/Debug/net8.0/refint/BookStore_Models.dll
+/Users/sinabastani/Desktop/projects/Rider/BookStore/BookStore_Models/obj/Debug/net8.0/BookStore_Models.pdb
+/Users/sinabastani/Desktop/projects/Rider/BookStore/BookStore_Models/obj/Debug/net8.0/ref/BookStore_Models.dll

@@ -1,0 +1,235 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/sinabastani/Desktop/projects/Rider/BookStore/BookStore_DataAccess/BookStore_DataAccess.csproj": {}
+  },
+  "projects": {
+    "/Users/sinabastani/Desktop/projects/Rider/BookStore/BookStore_DataAccess/BookStore_DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/sinabastani/Desktop/projects/Rider/BookStore/BookStore_DataAccess/BookStore_DataAccess.csproj",
+        "projectName": "BookStore_DataAccess",
+        "projectPath": "/Users/sinabastani/Desktop/projects/Rider/BookStore/BookStore_DataAccess/BookStore_DataAccess.csproj",
+        "packagesPath": "/Users/sinabastani/.nuget/packages/",
+        "outputPath": "/Users/sinabastani/Desktop/projects/Rider/BookStore/BookStore_DataAccess/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/sinabastani/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/sinabastani/Desktop/projects/Rider/BookStore/BookStore_Models/BookStore_Models.csproj": {
+                "projectPath": "/Users/sinabastani/Desktop/projects/Rider/BookStore/BookStore_Models/BookStore_Models.csproj"
+              },
+              "/Users/sinabastani/Desktop/projects/Rider/BookStore/BookStore_Utility/BookStore_Utility.csproj": {
+                "projectPath": "/Users/sinabastani/Desktop/projects/Rider/BookStore/BookStore_Utility/BookStore_Utility.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.0-rc.2.24474.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.0-rc.2.24474.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.0-rc.2.24474.1, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[9.0.0-rc.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.408/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/sinabastani/Desktop/projects/Rider/BookStore/BookStore_Models/BookStore_Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/sinabastani/Desktop/projects/Rider/BookStore/BookStore_Models/BookStore_Models.csproj",
+        "projectName": "BookStore_Models",
+        "projectPath": "/Users/sinabastani/Desktop/projects/Rider/BookStore/BookStore_Models/BookStore_Models.csproj",
+        "packagesPath": "/Users/sinabastani/.nuget/packages/",
+        "outputPath": "/Users/sinabastani/Desktop/projects/Rider/BookStore/BookStore_Models/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/sinabastani/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.408/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/sinabastani/Desktop/projects/Rider/BookStore/BookStore_Utility/BookStore_Utility.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/sinabastani/Desktop/projects/Rider/BookStore/BookStore_Utility/BookStore_Utility.csproj",
+        "projectName": "BookStore_Utility",
+        "projectPath": "/Users/sinabastani/Desktop/projects/Rider/BookStore/BookStore_Utility/BookStore_Utility.csproj",
+        "packagesPath": "/Users/sinabastani/.nuget/packages/",
+        "outputPath": "/Users/sinabastani/Desktop/projects/Rider/BookStore/BookStore_Utility/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/sinabastani/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "SendGrid": {
+              "target": "Package",
+              "version": "[9.29.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.408/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

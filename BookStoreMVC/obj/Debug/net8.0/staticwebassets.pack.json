@@ -1,0 +1,313 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/sinabastani/Desktop/projects/Rider/BookStore/BookStoreMVC/obj/Debug/net8.0/scopedcss/projectbundle/BookStoreMVC.bundle.scp.css",
+      "PackagePath": "staticwebassets/BookStoreMVC.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/sinabastani/Desktop/projects/Rider/BookStore/BookStoreMVC/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/Users/sinabastani/Desktop/projects/Rider/BookStore/BookStoreMVC/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/sinabastani/Desktop/projects/Rider/BookStore/BookStoreMVC/wwwroot/images/book.png",
+      "PackagePath": "staticwebassets/images/book.png"
+    },
+    {
+      "Id": "/Users/sinabastani/Desktop/projects/Rider/BookStore/BookStoreMVC/wwwroot/images/lawn_leaf.jpg",
+      "PackagePath": "staticwebassets/images/lawn_leaf.jpg"
+    },
+    {
+      "Id": "/Users/sinabastani/Desktop/projects/Rider/BookStore/BookStoreMVC/wwwroot/images/products/a5192b3d-0cdb-4a8d-ab70-f42f38ea77a1.jpg",
+      "PackagePath": "staticwebassets/images/products/a5192b3d-0cdb-4a8d-ab70-f42f38ea77a1.jpg"
+    },
+    {
+      "Id": "/Users/sinabastani/Desktop/projects/Rider/BookStore/BookStoreMVC/wwwroot/images/products/a671bc6e-9270-4f14-9836-5c8135c1167b.jpg",
+      "PackagePath": "staticwebassets/images/products/a671bc6e-9270-4f14-9836-5c8135c1167b.jpg"
+    },
+    {
+      "Id": "/Users/sinabastani/Desktop/projects/Rider/BookStore/BookStoreMVC/wwwroot/images/products/cec0b94d-a3af-4b34-8e16-f45e596adce3.jpg",
+      "PackagePath": "staticwebassets/images/products/cec0b94d-a3af-4b34-8e16-f45e596adce3.jpg"
+    },
+    {
+      "Id": "/Users/sinabastani/Desktop/projects/Rider/BookStore/BookStoreMVC/wwwroot/images/products/d51d1f69-d116-4721-a308-5231c9b8e965.jpg",
+      "PackagePath": "staticwebassets/images/products/d51d1f69-d116-4721-a308-5231c9b8e965.jpg"
+    },
+    {
+      "Id": "/Users/sinabastani/Desktop/projects/Rider/BookStore/BookStoreMVC/wwwroot/images/products/dbb2cd99-a34a-44e6-b946-931cd2d9b011.jpg",
+      "PackagePath": "staticwebassets/images/products/dbb2cd99-a34a-44e6-b946-931cd2d9b011.jpg"
+    },
+    {
+      "Id": "/Users/sinabastani/Desktop/projects/Rider/BookStore/BookStoreMVC/wwwroot/images/products/e5caea62-cbaf-4f3a-9cad-c1ccc276afbd.jpg",
+      "PackagePath": "staticwebassets/images/products/e5caea62-cbaf-4f3a-9cad-c1ccc276afbd.jpg"
+    },
+    {
+      "Id": "/Users/sinabastani/Desktop/projects/Rider/BookStore/BookStoreMVC/wwwroot/js/company.js",
+      "PackagePath": "staticwebassets/js/company.js"
+    },
+    {
+      "Id": "/Users/sinabastani/Desktop/projects/Rider/BookStore/BookStoreMVC/wwwroot/js/order.js",
+      "PackagePath": "staticwebassets/js/order.js"
+    },
+    {
+      "Id": "/Users/sinabastani/Desktop/projects/Rider/BookStore/BookStoreMVC/wwwroot/js/product.js",
+      "PackagePath": "staticwebassets/js/product.js"
+    },
+    {
+      "Id": "/Users/sinabastani/Desktop/projects/Rider/BookStore/BookStoreMVC/wwwroot/js/site.js",
+      "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
+      "Id": "/Users/sinabastani/Desktop/projects/Rider/BookStore/BookStoreMVC/wwwroot/js/user.js",
+      "PackagePath": "staticwebassets/js/user.js"
+    },
+    {
+      "Id": "/Users/sinabastani/Desktop/projects/Rider/BookStore/BookStoreMVC/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
+    },
+    {
+      "Id": "/Users/sinabastani/Desktop/projects/Rider/BookStore/BookStoreMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Users/sinabastani/Desktop/projects/Rider/BookStore/BookStoreMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Users/sinabastani/Desktop/projects/Rider/BookStore/BookStoreMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/Users/sinabastani/Desktop/projects/Rider/BookStore/BookStoreMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/Users/sinabastani/Desktop/projects/Rider/BookStore/BookStoreMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/Users/sinabastani/Desktop/projects/Rider/BookStore/BookStoreMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/Users/sinabastani/Desktop/projects/Rider/BookStore/BookStoreMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/Users/sinabastani/Desktop/projects/Rider/BookStore/BookStoreMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/sinabastani/Desktop/projects/Rider/BookStore/BookStoreMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Users/sinabastani/Desktop/projects/Rider/BookStore/BookStoreMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Users/sinabastani/Desktop/projects/Rider/BookStore/BookStoreMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/Users/sinabastani/Desktop/projects/Rider/BookStore/BookStoreMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/Users/sinabastani/Desktop/projects/Rider/BookStore/BookStoreMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/Users/sinabastani/Desktop/projects/Rider/BookStore/BookStoreMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/Users/sinabastani/Desktop/projects/Rider/BookStore/BookStoreMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/Users/sinabastani/Desktop/projects/Rider/BookStore/BookStoreMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/sinabastani/Desktop/projects/Rider/BookStore/BookStoreMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/Users/sinabastani/Desktop/projects/Rider/BookStore/BookStoreMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/Users/sinabastani/Desktop/projects/Rider/BookStore/BookStoreMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/Users/sinabastani/Desktop/projects/Rider/BookStore/BookStoreMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/Users/sinabastani/Desktop/projects/Rider/BookStore/BookStoreMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/Users/sinabastani/Desktop/projects/Rider/BookStore/BookStoreMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/Users/sinabastani/Desktop/projects/Rider/BookStore/BookStoreMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/Users/sinabastani/Desktop/projects/Rider/BookStore/BookStoreMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/sinabastani/Desktop/projects/Rider/BookStore/BookStoreMVC/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/sinabastani/Desktop/projects/Rider/BookStore/BookStoreMVC/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/sinabastani/Desktop/projects/Rider/BookStore/BookStoreMVC/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/sinabastani/Desktop/projects/Rider/BookStore/BookStoreMVC/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/sinabastani/Desktop/projects/Rider/BookStore/BookStoreMVC/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/Users/sinabastani/Desktop/projects/Rider/BookStore/BookStoreMVC/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/Users/sinabastani/Desktop/projects/Rider/BookStore/BookStoreMVC/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/Users/sinabastani/Desktop/projects/Rider/BookStore/BookStoreMVC/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/sinabastani/Desktop/projects/Rider/BookStore/BookStoreMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/Users/sinabastani/Desktop/projects/Rider/BookStore/BookStoreMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/Users/sinabastani/Desktop/projects/Rider/BookStore/BookStoreMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/sinabastani/Desktop/projects/Rider/BookStore/BookStoreMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/sinabastani/Desktop/projects/Rider/BookStore/BookStoreMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/Users/sinabastani/Desktop/projects/Rider/BookStore/BookStoreMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/Users/sinabastani/Desktop/projects/Rider/BookStore/BookStoreMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/Users/sinabastani/Desktop/projects/Rider/BookStore/BookStoreMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/Users/sinabastani/Desktop/projects/Rider/BookStore/BookStoreMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/sinabastani/Desktop/projects/Rider/BookStore/BookStoreMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/Users/sinabastani/Desktop/projects/Rider/BookStore/BookStoreMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/sinabastani/Desktop/projects/Rider/BookStore/BookStoreMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/Users/sinabastani/Desktop/projects/Rider/BookStore/BookStoreMVC/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/sinabastani/Desktop/projects/Rider/BookStore/BookStoreMVC/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/Users/sinabastani/Desktop/projects/Rider/BookStore/BookStoreMVC/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/Users/sinabastani/Desktop/projects/Rider/BookStore/BookStoreMVC/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/Users/sinabastani/Desktop/projects/Rider/BookStore/BookStoreMVC/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/Users/sinabastani/Desktop/projects/Rider/BookStore/BookStoreMVC/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/Users/sinabastani/Desktop/projects/Rider/BookStore/BookStoreMVC/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/Users/sinabastani/Desktop/projects/Rider/BookStore/BookStoreMVC/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/Users/sinabastani/Desktop/projects/Rider/BookStore/BookStoreMVC/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/sinabastani/Desktop/projects/Rider/BookStore/BookStoreMVC/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/Users/sinabastani/Desktop/projects/Rider/BookStore/BookStoreMVC/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/Users/sinabastani/Desktop/projects/Rider/BookStore/BookStoreMVC/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.BookStoreMVC.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.BookStoreMVC.props",
+      "PackagePath": "build\\BookStoreMVC.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.BookStoreMVC.props",
+      "PackagePath": "buildMultiTargeting\\BookStoreMVC.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.BookStoreMVC.props",
+      "PackagePath": "buildTransitive\\BookStoreMVC.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
